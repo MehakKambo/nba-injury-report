@@ -1,6 +1,6 @@
 # NBA Injury Report Scraper with Twilio SMS Notification
 
-This Python project uses web scraping with BeautifulSoup (bs4) to fetch the latest NBA injury report PDF file from the official NBA website. The project also utilizes Twilio to send a text message notification to a specified phone number containing the URL of the injury report PDF file.
+This Python project uses web scraping with BeautifulSoup (bs4) to fetch the latest NBA injury report PDF file from the official NBA website. The project also utilizes Twilio to send a text message notification to a specified phone number containing the injury report PDF file.
 
 # Installation
 To use this project, you will need to have Python 3 and the following Python packages installed:
